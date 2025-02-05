@@ -1,0 +1,4 @@
+re
+flash
+google.generativeai 
+flask_cors 
